@@ -1,0 +1,15 @@
+
+body{
+    background-color:burlywood;
+    
+}
+
+button{
+    color:brown;
+    touch-action: double-tap-zoom;
+}
+.head{
+    background-color: blueviolet;
+    font:caption;
+
+}
